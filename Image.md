@@ -1,1 +1,1 @@
-![GitHub Logo](https://assets-cdn.github.com/image/Geto.jpg"GitHub")
+![GitHub Logo](Geto.png "GitHub")
