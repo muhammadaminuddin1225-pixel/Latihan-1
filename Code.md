@@ -5,4 +5,4 @@ for(int i=o; i<10; i++)
 {
 printf("Hallow World!\n");
 }
-'''
+```
